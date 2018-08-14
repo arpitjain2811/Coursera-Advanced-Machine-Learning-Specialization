@@ -109,3 +109,4 @@ venv.bak/
 *.xml
 *.iml
 Introduction to Deep Learning/PlayGround/Scratch.ipynb
+*.local
